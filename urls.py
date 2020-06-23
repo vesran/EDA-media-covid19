@@ -1,4 +1,4 @@
-from newspaper import Article
+
 
 urls_bfm = [
     'https://www.bfmtv.com/sante/coronavirus-trois-nouveaux-clusters-identifies-en-normandie_AV-202006200060.html',
@@ -37,16 +37,6 @@ urls_cnews = [
     'https://www.cnews.fr/monde/2020-06-19/coronavirus-la-mort-dun-patient-diffusee-en-direct-la-television-bolivienne-969800',
 ]
 
-urls_ouest_france = [
-    'https://www.ouest-france.fr/sante/virus/coronavirus/une-facture-d-un-million-de-dollars-pour-un-survivant-du-covid-19-6868100',
-    'https://www.ouest-france.fr/sante/virus/coronavirus/carcassonne-il-fait-don-de-neuf-respirateurs-au-service-de-reanimation-qui-l-sauve-du-covid-6876686',
-    'https://www.ouest-france.fr/monde/bresil/le-chef-indigene-paiakan-grand-defenseur-de-la-foret-amazonienne-est-mort-du-covid-19-6873541'
-    'https://www.ouest-france.fr/ile-de-france/sarcelles-95200/covid-19-sarcelles-les-tests-positifs-sont-pres-de-quatre-fois-superieurs-ceux-realises-en-ile-de-6873343',
-    'https://www.ouest-france.fr/normandie/covid-19-de-nouveaux-clusters-identifies-en-normandie-le-seuil-d-alerte-depasse-6875653',
-    'https://www.ouest-france.fr/pays-de-la-loire/nantes-44000/post-covid-nantes-les-artistes-reveillent-la-place-royale-6876674',
-    'https://voilesetvoiliers.ouest-france.fr/croisiere/grande-croisiere/covid-19-bloquee-sur-son-voilier-aux-iles-caiman-une-canadienne-prepare-son-accouchement-e2e9d4c6-856c-11ea-9736-75ed782b32c8',
-    'https://www.ouest-france.fr/sante/virus/coronavirus/privees-de-prime-covid-les-federations-de-l-aide-domicile-crient-l-injustice-6870763',
-]
 
 urls_dauphine = [
     'https://www.ledauphine.com/sante/2020/06/19/vaucluse-coronavirus-carpentras-un-cas-de-covid-19-detecte-au-college-alphonse-daudet-l-etablissement-ferme-lundi',
@@ -103,7 +93,6 @@ urls_lacroix = [
 URLS = {'bfm': urls_bfm,
         '20minutes': urls_20minutes,
         'cnews': urls_cnews,
-        'ouest-france': urls_ouest_france,
         'ledauphine': urls_dauphine,
         'lemonde': urls_lemonde,
         'lefigaro': urls_figaro,
