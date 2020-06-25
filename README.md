@@ -20,7 +20,7 @@ Les articles datent du 18 au 20 juin 2020.
 * Identification de thématiques (LDA),
 * Nuages de mots, 
 * Champs lexical (morbidité, santé...)
-* Génération de texte propre à un journal, 
+* Génération de texte, 
 * etc.
 
 ## Dependencies
