@@ -11,7 +11,7 @@ et leur manière de l'aborder. Le but étant de pouvoir repérer :
 ## Getting Started
 
 ### Data
-L'analyse s'est basé sur 5 à 10 articles choisis pour chacun des 8 journaux (quotidiens) français préselectionnés. Ces données ont été scrapées depuis le web via <a href='https://newspaper.readthedocs.io/en/latest/'>newspaper3k</a>.
+L'analyse s'est basée sur 5 à 10 articles choisis pour chacun des 8 journaux (quotidiens) français préselectionnés. Ces données ont été scrapées depuis le web via <a href='https://newspaper.readthedocs.io/en/latest/'>newspaper3k</a>.
 Les articles datent du 18 au 20 juin 2020. 
 
 ### Features
